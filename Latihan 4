@@ -1,0 +1,17 @@
+<html>
+    <head><title>Format Elemen HTML</title></head>
+    <body bgcolor="lavender"
+    <center><h1>Dongeng Bawang Merah Bawang Putih</h1></center>
+    <p align="left">
+        Di sebuah desa, tinggalah seorang janda yang hidup dengan dua anak perempuannya yang memiliki wajah menawan, yaitu <mark><em>Bawang Merah dan Bawang Putih</em></mark>. Ayah kandung Bawang Putih yang juga suami dari ibu Bawang Merah telah meninggal dunia, jadi Bawang Putih adalah saudara tiri dari Bawang Merah.
+    </p>
+    <p align="left">
+        <em>Bawang Merah dan Bawang Putih</em> memiliki sifat karakter serta kepribadian yang berbeda. Bawang Putih memiliki sifat <b><i>yang rajin, baik hati, jujur, dan rendah hati.</i></b>Sementara Bawang Merah memiliki sifat yang <b><i>malas, sombong, iri hati.</i></b>
+    </p>
+    <p align="left">
+        <strong>kepribadian Bawang Merah yang malas juga diperburuk karena ibunya yang memanjakannya.</strong> Ibunya selalu memberi Bawang Merah apapun yang diinginkannya.
+    </p>
+    <img src="https://images.app.goo.gl/3R34vkc2xfZDgSJq6.jpg" width="50%"heigh="50%"</img>
+    </body>
+</html>
+￼Enter
